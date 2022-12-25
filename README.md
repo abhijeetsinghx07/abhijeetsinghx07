@@ -1,4 +1,4 @@
-👋Hola frikis!
+👋Hola folks!
 -----
 
 - 😎 I’m Abhijeet Singh
