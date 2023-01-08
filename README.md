@@ -3,7 +3,7 @@
 
 - 😎 I’m Abhijeet Singh
 - 🤟 A Data Enthusiast
-- ⚡ Currently learning SQL
+- ⚡ Currently learning SQL & Python
 
 <!---
 abhijeetsinghx07/abhijeetsinghx07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
