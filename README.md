@@ -1,21 +1,14 @@
-👋Hola!!
------
-
-- 😎 I’m Abhijeet Singh
-- 🤟 A Data Enthusiast
-- ⚡ Currently learning SQL & Python
-
 <!---
 abhijeetsinghx07/abhijeetsinghx07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Abhijeet Singh</h1>
-<h3 align="center">A passionate data analyst from India.</h3>
+<h1 align="center">Hola👋, I'm Abhijeet Singh</h1>
+<h3 align="center">A passionate data enthusiast 🤟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetsinghx07&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetsinghx07" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- ⚡ I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@abhijeetsinghx07](https://medium.com/@abhijeetsinghx07)
 
