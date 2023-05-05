@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hola👋, I'm Abhijeet Singh</h1>
 <h3 align="center"> Data Enthusiast </h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.nbfe.net%2Fresources%2FPictures%2Fbb938bd50fcfedccd720641f5a824bba.gif&tbnid=4uLKfPQE6b40JM&vet=12ahUKEwiP-_yMuNz-AhVAwDgGHdj7ASIQxiAoBnoECAAQLg..i&imgrefurl=https%3A%2F%2Fwww.nbfe.net%2FCFBA1&docid=ISOysPP3MttTvM&w=382&h=281&itg=1&q=animated%20coder%20geek%20gif%20hd&hl=en&ved=2ahUKEwiP-_yMuNz-AhVAwDgGHdj7ASIQxiAoBnoECAAQLg.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F5690231%2Fscreenshots%2F16191500%2Fmedia%2F4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif&tbnid=sx1jRU-Kp1Q5hM&vet=12ahUKEwj3lIyFuNz-AhWSl9gFHdD7AN0QMygNegUIARCPAg..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F16191500-Coder&docid=KG1yPFEyQghIaM&w=800&h=600&q=animated%20coder%20geek%20gif%20hd&hl=en&ved=2ahUKEwj3lIyFuNz-AhWSl9gFHdD7AN0QMygNegUIARCPAg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetsinghx07&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetsinghx07" /> </p>
 
