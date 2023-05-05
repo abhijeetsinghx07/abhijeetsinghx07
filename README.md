@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hola👋, I'm Abhijeet Singh</h1>
 <h3 align="center"> Data Enthusiast </h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.etimg.com%2Fthumb%2Fmsid-84146083%2Cwidth-1015%2Cheight-761%2Cimgsize-638053%2Cresizemode-8%2Fprime%2Ftechnology-and-startups%2Fbooting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg&tbnid=hShMtG-9VC7zDM&vet=12ahUKEwj3lIyFuNz-AhWSl9gFHdD7AN0QMygMegUIARCMAg..i&imgrefurl=https%3A%2F%2Feconomictimes.indiatimes.com%2Fprime%2Ftechnology-and-startups%2Fbooting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%2Fprimearticleshow%2F84146083.cms&docid=xYBZREU-h-FfGM&w=1015&h=761&q=animated%20coder%20geek%20gif%20hd&hl=en&ved=2ahUKEwj3lIyFuNz-AhWSl9gFHdD7AN0QMygMegUIARCMAg">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.nbfe.net%2Fresources%2FPictures%2Fbb938bd50fcfedccd720641f5a824bba.gif&tbnid=4uLKfPQE6b40JM&vet=12ahUKEwiP-_yMuNz-AhVAwDgGHdj7ASIQxiAoBnoECAAQLg..i&imgrefurl=https%3A%2F%2Fwww.nbfe.net%2FCFBA1&docid=ISOysPP3MttTvM&w=382&h=281&itg=1&q=animated%20coder%20geek%20gif%20hd&hl=en&ved=2ahUKEwiP-_yMuNz-AhVAwDgGHdj7ASIQxiAoBnoECAAQLg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetsinghx07&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetsinghx07" /> </p>
 
