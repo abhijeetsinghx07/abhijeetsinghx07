@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hola👋, I'm Abhijeet Singh</h1>
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 
@@ -36,16 +36,15 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetsinghx07&show_icons=true&locale=en&layout=compact" alt="abhijeetsinghx07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetsinghx07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abhijeetsinghx07" /></p>
 
 <br>
 <br>
 <br>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsinghx07&show_icons=true&locale=en" alt="abhijeetsinghx07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsinghx07&show_icons=true&locale=en&theme=tokyonight" alt="abhijeetsinghx07" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetsinghx07&" alt="abhijeetsinghx07" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetsinghx07&&theme=tokyonight" alt="abhijeetsinghx07" /></p>
