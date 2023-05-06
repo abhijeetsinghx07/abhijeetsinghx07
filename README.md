@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hola👋, I'm Abhijeet Singh</h1>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Oq9d.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/2R97.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetsinghx07&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetsinghx07" /> </p>
 
