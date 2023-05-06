@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hola👋, I'm Abhijeet Singh</h1>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/108348003/236642769-ea725d8f-3457-433d-9430-d71f2f9cc3f3.png">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif">
 
 
 
