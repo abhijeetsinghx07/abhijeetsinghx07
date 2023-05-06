@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetsinghx07&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetsinghx07" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Oq9d.gif">
+
 - ⚡ I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@abhijeetsinghx07](https://medium.com/@abhijeetsinghx07)
@@ -43,6 +45,6 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsinghx07&show_icons=true&locale=en" alt="abhijeetsinghx07" /></p>
 
 <br>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetsinghx07&" alt="abhijeetsinghx07" /></p>
 
