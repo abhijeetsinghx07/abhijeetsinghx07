@@ -37,10 +37,11 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <br>
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsinghx07&show_icons=true&locale=en" alt="abhijeetsinghx07" /></p>
 
-<br>
 <br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetsinghx07&" alt="abhijeetsinghx07" /></p>
