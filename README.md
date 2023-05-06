@@ -4,9 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hola👋, I'm Abhijeet Singh</h1>
+
+<br>
+<br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetsinghx07&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetsinghx07" /> </p>
 
