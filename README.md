@@ -66,8 +66,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhijeetsinghx07/abhijeetsinghx07/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhijeetsinghx07/abhijeetsinghx07/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/abhijeetsinghx07/abhijeetsinghx07/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhijeetsinghx07/abhijeetsinghx07/blob/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhijeetsinghx07/abhijeetsinghx07/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://github.com/abhijeetsinghx07/abhijeetsinghx07/blob/output/github-contribution-grid-snake.svg"/>
 </picture>
 
