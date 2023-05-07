@@ -26,7 +26,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://medium.com/@abhijeetsinghx07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhijeetsinghx07" height="30" width="40" /></a>
 </p>
 
+<p align="right">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</p>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
