@@ -47,7 +47,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetsinghx07&&theme=tokyonight" alt="abhijeetsinghx07" /></p>
 
-![](https://github-contributor-stats.vercel.app/api?username=abhijeetsinghx07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=abhijeetsinghx07&icon=0&color=1)](https://visitcount.itsvg.in)
+<p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=abhijeetsinghx07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="abhijeetsinghx07" /></p>
