@@ -49,4 +49,4 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=abhijeetsinghx07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="abhijeetsinghx07" /></p>
+<p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=abhijeetsinghx07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="abhijeetsinghx07" /></p>
