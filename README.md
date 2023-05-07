@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Tools, Platforms & Libraries:</h3>
 
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -38,9 +38,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ) 
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
 
   
@@ -62,6 +59,5 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetsinghx07&&theme=tokyonight&hide_border=true" alt="abhijeetsinghx07" /></p>
 
-<br>
 
 <p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=abhijeetsinghx07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="abhijeetsinghx07" /></p>
