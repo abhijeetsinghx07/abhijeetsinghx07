@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
@@ -39,23 +40,21 @@ You can click the Preview link to take a look at your changes.
 
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
+ </a> </p>
 
-  
-  </a> </p>
-
-<br>
 <br>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetsinghx07&&theme=tokyonight&hide_border=true" alt="abhijeetsinghx07" /></p>
 
 
 <br>
 
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeetsinghx07&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="abhijeetsinghx07" /></p>
 
 
 <p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=abhijeetsinghx07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="abhijeetsinghx07" /></p>
-
 <br>
+
 
 
 <picture>
