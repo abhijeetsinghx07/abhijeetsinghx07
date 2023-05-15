@@ -41,9 +41,6 @@ You can click the Preview link to take a look at your changes.
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
  </a> </p>
- 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetsinghx07&&theme=tokyonight&hide_border=true" alt="abhijeetsinghx07" /></p>
-
 
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeetsinghx07&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="abhijeetsinghx07" /></p>
