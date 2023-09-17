@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
+
  </a> </p>
 
 <br>
@@ -48,9 +48,9 @@ You can click the Preview link to take a look at your changes.
 <p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=abhijeetsinghx07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="abhijeetsinghx07" /></p>
 
 <br>
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhijeetsinghx07/abhijeetsinghx07/blob/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhijeetsinghx07/abhijeetsinghx07/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/abhijeetsinghx07/abhijeetsinghx07/blob/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
