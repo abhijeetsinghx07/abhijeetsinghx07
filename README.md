@@ -11,21 +11,21 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetsinghx07&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetsinghx07" /> </p>
 
 - ⚡ I’m currently learning **Python**
-
+<!---
 - 📝 I regularly write articles on [https://medium.com/@abhijeetsinghx07](https://medium.com/@abhijeetsinghx07)
-
+--->
 - 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **[abhijeetsingh4838@gmail.com](https://www.linkedin.com/in/abhijeetsingh4838)**
 
 <br>
-
+<!---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/abhijeetsinghx07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhijeetsinghx07" height="30" width="40" /></a>
 <a href="https://medium.com/@abhijeetsinghx07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhijeetsinghx07" height="30" width="40" /></a>
 </p>
-
+--->
 <br>
 <h3 align="left">Languages, Tools, Platforms & Libraries:</h3>
 
@@ -39,7 +39,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
+  <!---
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
+  --->
  </a> </p>
 
 <br>
