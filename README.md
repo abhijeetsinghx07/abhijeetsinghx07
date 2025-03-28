@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 - 💬 Ask me about **Data Analysis**
 
-- 📫 How to reach me **[abhijeetsingh4838@gmail.com](https://www.linkedin.com/in/abhijeetsingh4838)**
+<!--- - 📫 How to reach me **[abhijeetsingh4838@gmail.com](https://www.linkedin.com/in/abhijeetsingh4838)** --->
 
 <br>
 <!---
